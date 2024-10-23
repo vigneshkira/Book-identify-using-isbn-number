@@ -6,4 +6,3 @@ This project allows users to scan a book's barcode (ISBN) from an image file, se
 
 
 
-
